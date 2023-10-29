@@ -1,2 +1,2 @@
-# apanacollege-demo
+# Naukari-demo
 This is my first repository
